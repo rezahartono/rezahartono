@@ -109,9 +109,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rezahartono/rezahartono/output/snake.svg" alt="Snake animation" />
-
-###
