@@ -1,7 +1,10 @@
 <h2 align="left">Hi 👋! My name is Reza Hartono and I'm a Fullstack Developer, from Indonesia</h2>
 
+###
 
 <img src="https://raw.githubusercontent.com/rezahartono/rezahartono/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
