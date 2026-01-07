@@ -6,7 +6,13 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/rezahartono/rezahartono/blob/main/foto-reza.jpg?raw=true"  />
+<img align="center" height="150" src="https://github.com/rezahartono/rezahartono/blob/main/foto-reza.jpg?raw=true"  />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rezahartono.rezahartono&"  />
+</div>
 
 ###
 
